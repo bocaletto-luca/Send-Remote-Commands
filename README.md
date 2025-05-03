@@ -1,6 +1,9 @@
 # Send Remote Commands
 
-**Author**: [Bocaletto Luca](https://www.elektronoide.it)
+**Author**: [Bocaletto Luca](https://bocaletto-luca.github.io)
+
+**Language:** Python
+
 **License**: [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Description
